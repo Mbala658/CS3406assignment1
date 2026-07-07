@@ -19,7 +19,7 @@ The program takes as input a list of hospitals, their capacities, and preference
 
 ## Included Files
 
-- josue_rojo_CS4306_hw1.py: python implementation and pseudocode of the modified Gale-Shapley algorithm
+- CS4306_hw1.py: python implementation and pseudocode of the modified Gale-Shapley algorithm
 - sample_input_1.txt: sample input file
 - sample_input_2.txt: sample input file
 - sample_input_3.txt: sample input file
