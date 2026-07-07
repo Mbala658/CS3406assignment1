@@ -27,7 +27,7 @@ The program takes as input a list of hospitals, their capacities, and preference
 - sample_output_1.txt: sample output file
 - sample_output_2.txt: sample output file
 - sample_output_3.txt: sample output file
-- sample_outputt_4.txt: sample output file
+- sample_output_4.txt: sample output file
 - README.md: project documentation
 
 ## Requirements
