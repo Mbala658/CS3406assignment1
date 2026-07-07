@@ -1,0 +1,3 @@
+Tigre@Mac Downloads % python3 josue_rojo_CS4306_hw1.py
+A, Y
+B, X
