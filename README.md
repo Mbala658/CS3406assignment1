@@ -15,10 +15,14 @@ The program takes as input a list of hospitals, their capacities, and preference
 
 ## Included Files
 
-- josue_rojo_CS4306_hw1.py: the main project file
+- josue_rojo_CS4306_hw1.py: the python implementation of the modified Gale-Shapley algorithm
 - sample_input_1.txt: sample input file
 - sample_input_2.txt: sample input file
 - sample_input_3.txt: sample input file
 - sample_input_4.txt: sample input file
+- README.md: project documentation
 
+## Requirements
+
+- Python 3.8 or later
 
